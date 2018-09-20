@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>New-Test-Automation1</name>
+   <tag></tag>
+   <UUID>7f9fac20-470c-4b09-80b7-cf2ffdfaa590</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
